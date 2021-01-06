@@ -1,0 +1,26 @@
+#+TITLE: Russian Notes, Vol. I
+#+AUTHOR: DJJazzyBrett
+#+EMAIL: mmoc.liamg.ta@gmail.com
+
+* INTRODUCTION
+
+This is an introduction.
+
+** PART I
+This is Part I.
+
+*** PART II
+This is Part II.
+
+****  PART III
+This is Part III.
+
+* DIACRITICS
+
+
+To get a list of all available character compositions type C-x 8 C-h.
+And to get a list of all accented characters you can type C-x 8 ' C-h.
+
+* RUSSIAN
+
+По приглашению
