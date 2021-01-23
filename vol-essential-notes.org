@@ -36,17 +36,17 @@
 
 ** Grammar Builder 1
 
-- я (/I/)
+- Я (I)
 
-- ты (/you/ ... informal)
+- ты (you ... informal)
 
-- он (/he/ or /it/ ... masculine)
+- он (he or it ... masculine)
 
-- она (/she/ or /it/ ... feminine)
+- она (she or it ... feminine)
 
-- оно (/it/ ... neuter)
+- оно (it ... neuter)
 
-- вы (/you/ ... singular; formal)
+- вы (you ... singular; formal)
 
 ** Vocabulary Builder 2
 
@@ -84,8 +84,24 @@
 
 ** Grammar Builder 2
 
-- мы (/we/)
+- мы (we)
 
-- вы (/you/ ... plural)
+- вы (you ... plural)
 
-- они (/they/)
+- они (they)
+
+* LESSON 2
+
+** Vocabulary Builder 1
+
+- семья
+
+- мать; мама
+
+- отец; папа
+
+- сын
+
+- дочь; дочка
+
+- брат
